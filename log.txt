@@ -1,1 +1,50 @@
-a a 
+alphanumeric key J pressed
+alphanumeric key D pressed
+'J' released
+alphanumeric key X pressed
+'D' released
+'X' released
+alphanumeric key M pressed
+alphanumeric key H pressed
+alphanumeric key F pressed
+'M' released
+'F' released
+'H' released
+special key Key.space pressed
+alphanumeric key N pressed
+alphanumeric key B pressed
+Key.space released
+special key Key.cmd_r pressed
+Key.cmd_r released
+'N' released
+special key Key.space pressed
+'B' released
+Key.space released
+special key Key.space pressed
+alphanumeric key H pressed
+Key.space released
+alphanumeric key G pressed
+alphanumeric key F pressed
+'H' released
+'G' released
+alphanumeric key K pressed
+alphanumeric key U pressed
+'F' released
+'K' released
+'U' released
+alphanumeric key G pressed
+alphanumeric key L pressed
+alphanumeric key B pressed
+'G' released
+'B' released
+alphanumeric key I pressed
+'L' released
+alphanumeric key H pressed
+'I' released
+'H' released
+alphanumeric key N pressed
+'N' released
+alphanumeric key M pressed
+'M' released
+special key Key.backspace pressed
+Key.backspace released
